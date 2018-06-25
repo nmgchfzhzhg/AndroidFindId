@@ -16,6 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".innerclass.InnerClassActivity" >
+        </activity>
+        <activity android:name=".butterknife.ButterknifeActivity"/>
+        <activity android:name=".kotlin.KotlinActivity"/>
     </application>
 
 </manifest>
